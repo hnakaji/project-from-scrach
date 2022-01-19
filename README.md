@@ -3,4 +3,6 @@
 *This is markdown*
 
 ### Automargeについて学ぶ
-# Main Branchで変更！ Conflict
+
+# Conflictがーーーーー
+>>>>>>> conflict
